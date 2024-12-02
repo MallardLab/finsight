@@ -1,3 +1,4 @@
+
 # Finsight
 
 **Finsight** é uma plataforma inteligente para análise e geração de sinais de compra e venda no mercado financeiro, com foco em operações de curto prazo e day trading. Utilizando tecnologia de ponta e algoritmos personalizados, a ferramenta oferece insights precisos para otimizar decisões de investimento.
@@ -7,6 +8,7 @@
 ## 📋 Índice
 
 - [Visão Geral](#-visão-geral)
+
 - [Funcionalidades](#-funcionalidades)
 
 ---
