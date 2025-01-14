@@ -1,0 +1,8 @@
+{
+  "name": "@finsight/typescript-config",
+  "private": true,
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  }
+}
