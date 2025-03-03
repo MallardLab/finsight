@@ -1,3 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@source "../../../apps/web/**/*.{ts,tsx}";
+@source "../../../packages/ui/**/*.{ts,tsx}";
