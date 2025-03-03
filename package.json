@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
+    "dev": "turbo dev",
     "lint:format:check": "biome format .",
     "lint:format:fix": "biome format . --write",
     "lint:quality:check": "biome format .",

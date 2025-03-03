@@ -1,0 +1,25 @@
+{
+  "name": "@finsight/ui",
+  "private": true,
+  "version": "1.0.0",
+  "exports": {
+    "./postcss.config": "./postcss.config.mjs",
+    "./tailwind.config": "./tailwind.config.ts",
+    "./globals.css": "./src/globals.css",
+    "./hello-world": "./src/components/hello-world.tsx"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@finsight/typescript-config": "workspace:*",
+    "@types/node": "^22.13.8",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.8.2"
+  }
+}
